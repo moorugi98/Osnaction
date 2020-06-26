@@ -3,7 +3,8 @@ https://osnahack.de/ 25-26.06.2020.
 
 Dieses Repository ist vom Team Osnaction als Teil des Projekts https://osnahack.de/. 
 Die Idee ist eine App zu entwicklen, die alle Veranstaltungen in der Umgebung anzeigen können. Am Anfang werden die Nutzer Fragen gestellt damit die App persönliche Vorschläge machen kann.
-Die Dateien beinhalten den Empfehlungsalgorithmus fuer Events Vorschlaege und das Design der App. Die Umsetzung der Userinteraktion steht noch aus.
+Die Dateien beinhalten den Empfehlungsalgorithmus fuer Events Vorschlaege und das Design der App. Die Umsetzung der Userinteraktion steht noch aus. 
+Der Prototyp der App kann unter https://cloud.protopie.io/p/c39a631336 getestet werden.
 
 Beschreibung_neuronales_Netz.jpeg: Skizze der Architektur des neuronales Netzes.
 
