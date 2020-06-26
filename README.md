@@ -7,6 +7,8 @@ Die Dateien beinhalten den Empfehlungsalgorithmus fuer Events Vorschlaege und da
 
 Beschreibung_neuronales_Netz.jpeg: Skizze der Architektur des neuronales Netzes.
 
+Sequenzdiagramm.jpeg: Skizze der Zusammenhänge zwischen verschiedenen Algorithmen.
+
 Datensatz_events.csv: manuell erstellte Daten zum Zeigen des Konzepts.
 
 NN_recommend: gespeichertes Modell vom neuronalen Netz
